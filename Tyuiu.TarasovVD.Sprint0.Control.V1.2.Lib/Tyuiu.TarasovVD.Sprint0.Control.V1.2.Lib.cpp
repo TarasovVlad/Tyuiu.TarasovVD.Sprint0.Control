@@ -1,5 +1,4 @@
-// Tyuiu.GurevskayaVE.Sprint0.Control.V1.1.Lib.cpp : Defines the functions for the static library.
-//
+
 
 #include "pch.h"
 #include "framework.h"

@@ -1,5 +1,4 @@
-// Tyuiu.GurevskayaVE.Sprint0.Control.V1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+
 
 #include <iostream>
 #include "../Tyuiu.TarasovVD.Sprint0.Control.V1.Lib/Tyuiu.TarasovVD.Sprint0.Control.V1.Lib.cpp"

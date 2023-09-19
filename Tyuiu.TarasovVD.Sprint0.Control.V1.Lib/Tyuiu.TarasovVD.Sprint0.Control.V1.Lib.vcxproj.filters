@@ -29,5 +29,8 @@
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\Tyuiu.TarasovVD.Sprint0.Control.V1.2.Lib\Tyuiu.TarasovVD.Sprint0.Control.V1.2.Lib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
