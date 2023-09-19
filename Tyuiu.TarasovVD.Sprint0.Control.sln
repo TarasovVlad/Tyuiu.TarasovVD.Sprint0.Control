@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.TarasovVD.Sprint0.Con
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.TarasovVD.Sprint0.Control.V1.2.Lib", "Tyuiu.TarasovVD.Sprint0.Control.V1.2.Lib\Tyuiu.TarasovVD.Sprint0.Control.V1.2.Lib.vcxproj", "{2AF31D8A-4F30-436A-AFFA-31AD74181D7D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticLib1", "StaticLib1\StaticLib1.vcxproj", "{4F9EFC02-63E3-4468-92A0-A884906A7DAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -75,6 +77,14 @@ Global
 		{2AF31D8A-4F30-436A-AFFA-31AD74181D7D}.Release|x64.Build.0 = Release|x64
 		{2AF31D8A-4F30-436A-AFFA-31AD74181D7D}.Release|x86.ActiveCfg = Release|Win32
 		{2AF31D8A-4F30-436A-AFFA-31AD74181D7D}.Release|x86.Build.0 = Release|Win32
+		{4F9EFC02-63E3-4468-92A0-A884906A7DAB}.Debug|x64.ActiveCfg = Debug|x64
+		{4F9EFC02-63E3-4468-92A0-A884906A7DAB}.Debug|x64.Build.0 = Debug|x64
+		{4F9EFC02-63E3-4468-92A0-A884906A7DAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F9EFC02-63E3-4468-92A0-A884906A7DAB}.Debug|x86.Build.0 = Debug|Win32
+		{4F9EFC02-63E3-4468-92A0-A884906A7DAB}.Release|x64.ActiveCfg = Release|x64
+		{4F9EFC02-63E3-4468-92A0-A884906A7DAB}.Release|x64.Build.0 = Release|x64
+		{4F9EFC02-63E3-4468-92A0-A884906A7DAB}.Release|x86.ActiveCfg = Release|Win32
+		{4F9EFC02-63E3-4468-92A0-A884906A7DAB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +96,7 @@ Global
 		{FEF107A7-E907-4E50-B155-915890C93990} = {4D215780-2699-4AD5-8432-EF2EE022F4F0}
 		{8413F565-C768-4865-8BB4-EC3A5B9BFEF8} = {4D215780-2699-4AD5-8432-EF2EE022F4F0}
 		{2AF31D8A-4F30-436A-AFFA-31AD74181D7D} = {4D215780-2699-4AD5-8432-EF2EE022F4F0}
+		{4F9EFC02-63E3-4468-92A0-A884906A7DAB} = {4D215780-2699-4AD5-8432-EF2EE022F4F0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8039C0FF-7147-459C-A2DB-7705AB127C30}
